@@ -1,0 +1,8 @@
+
+
+Dane przechowywane w pliku mogą mieć reprezentację binarną (taką samą, jak w pamięci komputera) lub tekstową (taką, jaka używana jest do wprowadzania informacji z klawiatury i wyprowadzania jej na ekran monitora lub drukarkę).
+ Reprezentacjom tym odpowiadają
+elementowe (inaczej nazywane zdefiniowanymi lub binarnymi) – mogą przechowywać dane dowolnego typu. Ich interpretacja zależy od programu, który je odczytuje. Wszystkie dane przechowywane w plikach elementowych muszą być tego samego typu. 
+tekstowe – przechowują tekst w zapisany w kodzie ASCI
+
+

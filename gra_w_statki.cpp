@@ -42,21 +42,6 @@ int main()
     wylosuj_plansze();
     //rysuj_plansze(true);
 
-    // do
-    // {
-    //     rysuj_plansze();
-    //     cout << "Podaj litere: ";
-    //     cin >> wiersz;
-    //     if (wiersz == "x")
-    //     {
-    //         rysuj_plansze(true);
-    //         break;
-    //     }
-    //     cout << "Podaj liczbe: ";
-    //     cin >> kolumna;
-    //     strzal(wiersz, kolumna);
-    // } while (!sprawsz_czy_koniec()); //while (wiersz != "x");
-
     do
     {
         rysuj_plansze();
